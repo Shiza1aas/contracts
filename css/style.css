@@ -1,0 +1,14 @@
+body
+{
+	/*background-image: url("bg.jpg");*/
+	background-color: #ccc;
+}
+
+.tpad
+{
+	padding-top: 50px;
+}
+.stpad
+{
+	padding-top: 20px;
+}
